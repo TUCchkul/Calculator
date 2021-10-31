@@ -29,18 +29,9 @@ class Calculator:
 
 
 
-<<<<<<< HEAD
 
-||||||| cee6a9c
-if __name__ == '__main__':
-    operation = Calculator()
-    operation.add()
-    operation.subtract()
-    operation.multiply()
-    operation.divide()
-=======
 if __name__ == '__main__':
     operation = Calculator()
     operation.add()
     
->>>>>>> bugfix
+
