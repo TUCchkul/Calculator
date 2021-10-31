@@ -49,9 +49,9 @@ def math_operation_via_postman():
 
 
 if __name__ == '__main__':
-    host="127.0.0.1"
-    port=8080
-    app.run(host="127.0.0.1", port=8080,debug=True)
+    host="34.4.4.4.6"
+    port=5000
+    #######app.run(host="127.0.0.1", port=8080,debug=True)
 
 
     # class definition for flask class
